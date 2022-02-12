@@ -19,4 +19,4 @@ Each assignment as a theoretical and a programming part. The repo contains code 
 My partner and I implemented and analyzed various machine learning techniques to classify audio tracks into 10 different musical genres. We used a modified subset of the Million Song Dataset (MSD) which provides already extracted feature vectors for 1 million songs. We first established baseline models for the classification task such as Random Classification, Gaussian Mixture Models and Support Vector Machines. Next, we implemented neural network models such as Convolutional Neural Networks (CNNs)
 and Convolutional Recurrent Neural Networks (CRNNs). Both the neural network models surpassed the accuracy of the baseline models and CRNNs perform
 better than CNNs. To understand the impact of different features on performance, we implement GMMs and CRNNs with just timbral and pitch features. Thus, we
-proposed two neural network architectures that surpass the baseline models and are comparable to models found in existing literature. ∂
+proposed two neural network architectures that surpass the baseline models and are comparable to models found in existing literature.
