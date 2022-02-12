@@ -1,6 +1,6 @@
 # EE 511 Statistical Learning
 
-This class Covers classification and estimation of vector observations, including both parametric and nonparametric approaches. Includes classification with likelihood functions and general discriminant functions, density estimation, supervised and unsupervised learning, and feature reduction. Specific methods covered include Naive Bayes, decision trees, support vector machines and neural networks.
+This class covered classification and estimation of vector observations, including both parametric and nonparametric approaches. Includes classification with likelihood functions and general discriminant functions, density estimation, supervised and unsupervised learning, and feature reduction. Specific methods covered include Naive Bayes, decision trees, support vector machines and neural networks.
 
 The repo contains code developed during class assignment and the class project (done in conjuction with a partner)
 
